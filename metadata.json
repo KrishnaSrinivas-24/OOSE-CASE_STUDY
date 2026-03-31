@@ -1,0 +1,5 @@
+{
+  "name": "SkyPay Payment Gateway",
+  "description": "A modern fintech-style payment gateway simulation featuring merchant dashboard, secure checkout, and bank decision flows.",
+  "requestFramePermissions": []
+}
